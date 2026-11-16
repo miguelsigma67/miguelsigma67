@@ -16,8 +16,6 @@ Plataforma educacional com cursos, trilhas de aprendizagem e exercícios de prog
 🔗 [Ver projeto ConectaTech](https://github.com/miguelsigma67/ConectaTech-projeto)
 
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=miguelsigma67&show_icons=true&theme=tokyonight)
-
  Objetivos
 
 - Aprimorar meus conhecimentos em desenvolvimento Front-End.
